@@ -301,6 +301,7 @@ DEPENDENCIES
   byebug
   capybara (>= 2.15)
   factory_bot
+  faraday
   google-api-client (> 0.7)
   jwt
   listen (>= 3.0.5, < 3.2)
